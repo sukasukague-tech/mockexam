@@ -1,0 +1,6 @@
+{
+  "name": "SG Exam Trawler P5/P6",
+  "description": "Trawl, analyze, and practice exam papers from top Singapore primary schools for Primary 5 and 6, categorized by subjects, terms, and schools, powered by Gemini-based styling models and mock generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
